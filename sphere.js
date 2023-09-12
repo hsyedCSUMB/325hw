@@ -1,6 +1,7 @@
 /*
  * An object type representing an implicit sphere.
- *
+ *This program was written by Haider Syed and Michael Huziy
+ * This submission is the same as his
  * @param center A Vector3 object representing the position of the center of the sphere
  * @param radius A Number representing the radius of the sphere.
  * 
